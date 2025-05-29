@@ -1,0 +1,91 @@
+patient_id,age,visit_date,NSAA_score,6MWT_distance,steroid_use,side_effects,mutation_type
+P028,12,2022-04-06,20,267,Yes,Stunted Growth,Point Mutation
+P027,7,2022-03-19,20,295,No,None,Point Mutation
+P021,8,2023-11-19,26,241,Yes,Weight Gain,Deletion
+P014,11,2023-11-28,18,247,Yes,None,Deletion
+P022,8,2022-01-22,22,259,Yes,Weight Gain,Deletion
+P027,6,2022-10-13,20,303,No,None,Point Mutation
+P029,11,2022-08-07,16,223,Yes,Mood Swings,Deletion
+P026,10,2022-12-14,17,254,Yes,Mood Swings,Deletion
+P007,11,2023-04-10,21,243,No,Weight Gain,Deletion
+P013,9,2022-05-22,13,276,No,Weight Gain,Duplication
+P030,4,2023-04-11,26,326,No,None,Duplication
+P012,7,2022-05-27,22,300,No,None,Duplication
+P002,9,2022-08-12,19,270,No,None,Deletion
+P010,9,2023-12-03,24,278,Yes,None,Point Mutation
+P004,6,2022-08-09,28,285,No,Stunted Growth,Point Mutation
+P023,5,2022-02-02,22,330,Yes,Mood Swings,Deletion
+P028,11,2023-07-08,21,248,Yes,Mood Swings,Point Mutation
+P026,11,2022-04-22,19,225,Yes,None,Deletion
+P004,5,2022-12-15,22,271,No,None,Point Mutation
+P025,10,2022-04-07,20,265,Yes,None,Duplication
+P022,9,2022-08-24,16,261,Yes,Weight Gain,Deletion
+P019,12,2022-03-29,18,279,Yes,Mood Swings,Duplication
+P015,10,2022-04-28,18,260,No,Weight Gain,Duplication
+P018,10,2023-09-06,18,233,Yes,None,Deletion
+P005,9,2023-07-04,19,254,No,None,Deletion
+P019,11,2023-08-04,13,239,Yes,Stunted Growth,Duplication
+P029,12,2022-03-02,17,236,Yes,None,Deletion
+P004,7,2022-12-11,23,251,No,None,Point Mutation
+P011,7,2022-08-05,21,276,Yes,Stunted Growth,Duplication
+P006,7,2023-10-06,21,317,No,Weight Gain,Deletion
+P005,8,2022-02-14,18,277,No,Mood Swings,Deletion
+P020,11,2023-07-17,18,216,Yes,None,Deletion
+P003,6,2022-10-12,18,278,No,Mood Swings,Point Mutation
+P001,9,2022-10-09,22,257,Yes,None,Deletion
+P007,10,2022-04-14,16,253,No,None,Deletion
+P012,9,2023-07-06,22,290,No,None,Duplication
+P003,5,2022-08-14,25,261,No,None,Point Mutation
+P005,7,2022-12-19,21,282,No,Weight Gain,Deletion
+P030,5,2023-12-15,25,329,No,Stunted Growth,Duplication
+P030,6,2023-07-24,23,344,No,Weight Gain,Duplication
+P029,10,2023-02-21,19,234,Yes,None,Deletion
+P017,12,2022-07-23,13,221,Yes,None,Deletion
+P025,11,2023-03-18,15,213,Yes,None,Duplication
+P010,10,2022-02-27,17,243,Yes,None,Point Mutation
+P013,10,2022-04-04,20,244,No,Mood Swings,Duplication
+P015,8,2023-07-21,19,259,No,Mood Swings,Duplication
+P003,7,2022-01-07,19,286,No,Mood Swings,Point Mutation
+P024,6,2022-08-08,26,265,No,Weight Gain,Point Mutation
+P024,8,2022-09-06,17,273,No,Mood Swings,Point Mutation
+P028,10,2022-02-21,23,233,Yes,Weight Gain,Point Mutation
+P009,9,2022-06-17,21,252,Yes,None,Point Mutation
+P019,10,2022-03-01,20,248,Yes,None,Duplication
+P014,12,2022-03-07,22,219,Yes,None,Deletion
+P009,10,2022-10-04,17,262,Yes,Stunted Growth,Point Mutation
+P001,10,2022-05-23,21,280,Yes,Mood Swings,Deletion
+P008,7,2022-10-01,18,265,No,Mood Swings,Deletion
+P008,6,2022-12-30,23,283,No,None,Deletion
+P016,9,2022-06-11,18,253,No,None,Duplication
+P024,7,2023-08-08,23,306,No,Weight Gain,Point Mutation
+P017,11,2023-10-17,19,235,Yes,Weight Gain,Deletion
+P026,9,2022-03-04,21,266,Yes,None,Deletion
+P025,12,2023-02-25,19,235,Yes,None,Duplication
+P014,10,2023-10-05,20,210,Yes,None,Deletion
+P001,11,2023-11-24,18,235,Yes,Mood Swings,Deletion
+P020,10,2022-05-12,19,256,Yes,Weight Gain,Deletion
+P018,12,2023-01-07,23,233,Yes,Mood Swings,Deletion
+P009,8,2023-07-01,23,234,Yes,Mood Swings,Point Mutation
+P006,9,2023-12-23,23,235,No,None,Deletion
+P023,4,2022-08-23,22,319,Yes,None,Deletion
+P011,9,2022-11-19,23,287,Yes,None,Duplication
+P011,8,2023-08-04,18,246,Yes,Mood Swings,Duplication
+P021,9,2023-03-25,22,303,Yes,Mood Swings,Deletion
+P020,12,2023-06-25,21,245,Yes,Mood Swings,Deletion
+P018,11,2022-01-20,18,248,Yes,None,Deletion
+P027,5,2022-05-24,30,309,No,None,Point Mutation
+P008,8,2023-12-01,20,291,No,Weight Gain,Deletion
+P013,8,2023-01-06,21,301,No,None,Duplication
+P002,10,2023-09-09,18,240,No,None,Deletion
+P016,8,2022-04-25,22,289,No,None,Duplication
+P010,11,2022-02-02,19,259,Yes,Mood Swings,Point Mutation
+P015,9,2022-01-12,23,266,No,Weight Gain,Duplication
+P006,8,2023-01-06,21,248,No,Weight Gain,Deletion
+P017,10,2023-10-03,20,255,Yes,None,Deletion
+P022,7,2022-08-19,20,268,Yes,None,Deletion
+P012,8,2022-09-10,23,257,No,Mood Swings,Duplication
+P002,8,2022-02-02,26,285,No,None,Deletion
+P007,9,2022-03-23,21,220,No,Mood Swings,Deletion
+P016,10,2022-09-27,18,220,No,Stunted Growth,Duplication
+P021,7,2024-01-01,25,261,Yes,None,Deletion
+P023,6,2022-03-14,21,283,Yes,Weight Gain,Deletion
